@@ -14,7 +14,7 @@ MediQ's architecture facilitates a seamless interaction between users and medica
 - The creation of embeddings and indexes from medical transcripts.
 - The utilization of LangChain and HuggingFace frameworks for processing and answering questions.
 
-![MediQ Architecture](MediQ/arch.png)
+![MediQ Architecture](images/arch.png)
 
 
 ## Data Sources
@@ -39,50 +39,50 @@ We opted for the Vicuna-13B model, fine-tuned with LoRA, PEFT, and bitsandbytes.
 <table>
   <tr>
     <td>
-      <img src="MediQ/i1.png" alt="Input"/>
+      <img src="images/i1.png" alt="Input"/>
     </td>
     <td>
-      <img src="MediQ/o1.png" alt="Output"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="MediQ/i2.png" alt="Input"/>
-    </td>
-    <td>
-      <img src="MediQ/o2.png" alt="Output"/>
+      <img src="images/o1.png" alt="Output"/>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="MediQ/i3.png" alt="Input"/>
+      <img src="images/i2.png" alt="Input"/>
     </td>
     <td>
-      <img src="MediQ/o3.png" alt="Output"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="MediQ/i4.png" alt="Input"/>
-    </td>
-    <td>
-      <img src="MediQ/o4.png" alt="Output"/>
+      <img src="images/o2.png" alt="Output"/>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="MediQ/i5.png" alt="Input"/>
+      <img src="images/i3.png" alt="Input"/>
     </td>
     <td>
-      <img src="MediQ/o5.png" alt="Output"/>
+      <img src="images/o3.png" alt="Output"/>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="MediQ/i6.png" alt="Input"/>
+      <img src="images/i4.png" alt="Input"/>
     </td>
     <td>
-      <img src="MediQ/o6.png" alt="Output"/>
+      <img src="images/o4.png" alt="Output"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="images/i5.png" alt="Input"/>
+    </td>
+    <td>
+      <img src="images/o5.png" alt="Output"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="images/i6.png" alt="Input"/>
+    </td>
+    <td>
+      <img src="images/o6.png" alt="Output"/>
     </td>
   </tr>
 </table>
