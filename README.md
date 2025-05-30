@@ -98,3 +98,12 @@ pip install -r requirements.txt
 
 # Start the jupyter server by running
 jupyter notebook
+
+# Open your browser and open http://localhost:8888/inference and open a notebook
+```
+
+---
+
+## Team
+- Ayush Mishra(ayushmishra4201@gmail.com)
+- Shani Sao (shanimoney88@gmail.com)
